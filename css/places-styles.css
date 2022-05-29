@@ -1,3 +1,18 @@
+h1 {
+  font-style: oblique;
+  text-align: center;
+}
+
 h2 {
   color: lawngreen;
+}
+
+h3 {
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+li {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bolder;
 }
